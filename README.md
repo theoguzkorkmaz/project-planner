@@ -1,4 +1,4 @@
-# project-planner
+# VUE | project-planner | TO-DO app
 
 ## Project setup
 ```
