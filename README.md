@@ -18,5 +18,5 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![screenshot]([screenshot.png](https://github.com/theoguzkorkmaz/project-planner/blob/master/uygulama_gorseller/Ekran%20Resmi%202024-03-27%2011.30.58.png)https://github.com/theoguzkorkmaz/project-planner/blob/master/uygulama_gorseller/Ekran%20Resmi%202024-03-27%2011.30.58.png)
+![screenshot]([screenshot.png](https://raw.githubusercontent.com/theoguzkorkmaz/project-planner/master/uygulama_gorseller/Ekran%20Resmi%202024-03-27%2011.30.58.png)
 
